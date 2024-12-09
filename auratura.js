@@ -8,6 +8,7 @@ let colors = [
   "#BEBEBE", // Add your Own Emotion (Gray)
 ];
 
+
 let color_names = [
   "Happy",
   "Sad",
